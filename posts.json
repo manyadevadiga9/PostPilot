@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "caption": "HI",
+        "platform": "Facebook",
+        "scheduled_time": "2026-11-11T06:00:00",
+        "status": "Published"
+    },
+    {
+        "id": 2,
+        "caption": "POST",
+        "platform": "LinkedIn",
+        "scheduled_time": "2026-11-13T07:00:00",
+        "status": "Missed"
+    },
+    {
+        "id": 3,
+        "caption": "hi",
+        "platform": "LinkedIn",
+        "scheduled_time": "2026-11-14T05:00:00",
+        "status": "Published"
+    },
+    {
+        "id": 4,
+        "caption": "yes",
+        "platform": "X",
+        "scheduled_time": "2026-11-12T04:00:00",
+        "status": "Missed"
+    }
+]
